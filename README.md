@@ -30,8 +30,8 @@ Clone the project to your local machine:
 
 bash
 ```
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/AryaJawarkar/HelloWorldAPI.git
+cd ignitesolution
 ```
 
 2. Install Backend Dependencies
@@ -39,7 +39,9 @@ Navigate to the project directory and install dependencies for the backend:
 
 bash
 ```
-npm install express cors
+cd backend 
+npm install
+npm install cors
 ```
 
 3. Start the Backend Server

@@ -31,6 +31,10 @@ Clone the project to your local machine:
 bash
 ```
 git clone https://github.com/AryaJawarkar/HelloWorldAPI.git
+or
+If Zip file Downloaded 
+Extract/Unzip it first
+
 cd ignitesolution
 ```
 

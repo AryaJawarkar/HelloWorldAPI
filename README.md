@@ -33,9 +33,9 @@ bash
 ```
 git clone https://github.com/AryaJawarkar/HelloWorldAPI.git
 or
-If Zip file Downloaded 
+If Zip file Downloaded
 Extract/Unzip it first
-
+change url in frontend/index.js to http://localhost:5000
 cd HelloWorldAPI-master
 ```
 

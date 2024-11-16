@@ -35,7 +35,7 @@ or
 If Zip file Downloaded 
 Extract/Unzip it first
 
-cd ignitesolution
+cd HelloWorldAPI-master
 ```
 
 2. Install Backend Dependencies

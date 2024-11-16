@@ -10,7 +10,7 @@ Greet.addEventListener("submit",async (e) =>{
         });
         const result = await res.json();
         if(res.status === 200){
-            disp.textContent = result.message.greet;
+            disp.textContent = result.message.msgText;
         }
         else{
             disp.textContent = result.error_message;

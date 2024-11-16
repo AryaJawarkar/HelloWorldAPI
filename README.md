@@ -7,9 +7,7 @@ A frontend (HTML, CSS, and JavaScript) that allows users to select a language an
 A backend built with Node.js and Express.js to serve the greetings.
 
 ## Website Link
-
-    [Link text](https://helloworldapi-1.onrender.com)
-
+[link](https://helloworldapi-1.onrender.com)
 ## Features
 
 - Supports greeting in three languages: English, French, and Hindi.
